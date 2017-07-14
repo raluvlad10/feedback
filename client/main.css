@@ -1,0 +1,158 @@
+/* CSS declarations go here */
+
+
+.inputComment {
+    width: 700px;
+    height: 100px;
+}
+.comment {
+    font-size: 20px;
+}
+
+.commentSubscriber {
+    color: grey;
+    font-size: 15px;
+}
+
+.commentCategory {
+    margin: 30px 10px;
+}
+
+
+
+
+
+.header {
+    padding: 20px 0 0 20px;
+}
+
+.title {
+    font-size: 40px;
+    margin: 30px 0;
+    width: 300px;
+    text-align: center;
+}
+
+.name {
+    font-size: 20px;;
+}
+
+.tabel {
+    margin-top: 15px;
+    font-size: 20px;
+}
+.tabel2 {
+    margin: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+td {
+    width: 100px;
+    text-align: left;
+}
+
+td img {
+    margin-right: 4px;
+    width: 18px;
+    height: 18px;
+}
+
+.ulx {
+    list-style-type: none;
+}
+
+.lix {
+    border-bottom: 1.5px solid gray;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.item {
+    border: none;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.inputLi {
+    width: 220px;
+    height: 25px;
+}
+
+.button-x {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.button-z {
+    margin-left: 250px;
+}
+
+.username {
+    font-size: 20px;
+    /*margin: 0 0 20px 20px;*/
+}
+
+.input {
+    height: 30px;
+    width: 200px;
+    border: 1.5px solid navy;
+}
+
+.search {
+    position: fixed;
+    top: 40px;
+    right: 0;
+    margin: 25px;
+}
+
+.textbox {
+    width: 80%;
+    margin: 15px 0 0 0;
+}
+
+.votesubmit {
+    margin-bottom: 40px;
+    margin-top: 5px;
+}
+
+.votepage {
+    margin-left: 30px;
+}
+
+.header-title {
+    font-size: 30px;
+}
+.header-ul {
+    font-size: 25px;
+}
+.login {
+    padding: 15px;
+    padding-right: 170px;
+    font-size: 18px;
+}
+.tdtitle {
+    width: 40%;
+}
+.tdvote {
+    width: 20%;
+}
+
+.textuser {
+    font-size: 18px;
+}
+.textli {
+    margin-bottom: 15px;
+}
+.imgArrow {
+    width: 40px;
+    height: 40px;
+}
+.bestSkill {
+    font-size: 25px;
+    color: lightslategray;
+    margin-left: 10px;
+}
+.selectedSkill {
+    color: lightslategray;
+}
